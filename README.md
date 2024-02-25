@@ -9,3 +9,8 @@ Pour lancer le projet :
 ```bash
   go run main.go
 ```
+
+## Auteur
+
+- [@Xubeo(Lucas TOURNEAUX)](https://github.com/Xubeo)
+
